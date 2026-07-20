@@ -37,13 +37,7 @@ npx skills add andyraitra/align-first
 npx skills add andyraitra/align-first -a claude-code -a cursor -a copilot
 ```
 
-**2. agentskills.io registry (per skill):**
-```bash
-agentskills pull confirm-task-understanding
-agentskills pull guess-vs-verified
-```
-
-**3. Manual:**
+**2. Manual:**
 ```bash
 git clone https://github.com/andyraitra/align-first
 # then copy the skill folder(s) you want into your harness's skills directory, e.g. for confirm-task-understanding:
