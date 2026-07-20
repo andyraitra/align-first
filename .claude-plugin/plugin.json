@@ -1,0 +1,9 @@
+{
+  "name": "align-first",
+  "description": "Two lightweight, token-frugal skills that keep a coding agent aligned with the developer: confirm understanding before the bulk of the work, and separate verified facts from assumptions before concluding.",
+  "version": "0.1.0",
+  "author": {
+    "name": "andyraitra",
+    "url": "https://github.com/andyraitra"
+  }
+}
